@@ -1,0 +1,24 @@
+{
+    "name": "vincenth520/alidayu",
+    "description": "阿里大于短信composer库",
+    "license": "MIT",
+    "version": "1.0.0",
+    "type": "library",
+    "keywords": ["alidayu","API","sms"],
+    "authors": [
+        {
+            "name": "Vincent",
+            "email": "1091986039@qq.com",
+            "homepage": "https://github.com/vincenth520"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alidayu\\": "src/Alidayu/"
+        }
+    },
+    "time": "2017-11-07 10:41:00"
+}
